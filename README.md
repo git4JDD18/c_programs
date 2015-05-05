@@ -1,2 +1,3 @@
 # c_programs
-testing
+
+Various interesting problems in C
